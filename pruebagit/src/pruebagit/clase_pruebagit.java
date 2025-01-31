@@ -11,6 +11,6 @@ package pruebagit;
 public class clase_pruebagit {
     
     public void imprimir(){
-        System.out.println("MAMIA PISA BURRAS ");
+        System.out.println("MAMia te quiero mucho ");
     }
 }
